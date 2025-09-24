@@ -19,3 +19,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 var myVar = "Hello, world!";
 
 ```
+
+- [x] New List
+- [x] This item is complete
+- [ ] This item is not complete
